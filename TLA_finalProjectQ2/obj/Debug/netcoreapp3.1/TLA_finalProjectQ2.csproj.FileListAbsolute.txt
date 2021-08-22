@@ -1,0 +1,13 @@
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\bin\Debug\netcoreapp3.1\TLA_finalProjectQ2.exe
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\bin\Debug\netcoreapp3.1\TLA_finalProjectQ2.deps.json
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\bin\Debug\netcoreapp3.1\TLA_finalProjectQ2.runtimeconfig.json
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\bin\Debug\netcoreapp3.1\TLA_finalProjectQ2.runtimeconfig.dev.json
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\bin\Debug\netcoreapp3.1\TLA_finalProjectQ2.dll
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\bin\Debug\netcoreapp3.1\TLA_finalProjectQ2.pdb
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\obj\Debug\netcoreapp3.1\TLA_finalProjectQ2.csprojAssemblyReference.cache
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\obj\Debug\netcoreapp3.1\TLA_finalProjectQ2.AssemblyInfoInputs.cache
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\obj\Debug\netcoreapp3.1\TLA_finalProjectQ2.AssemblyInfo.cs
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\obj\Debug\netcoreapp3.1\TLA_finalProjectQ2.csproj.CoreCompileInputs.cache
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\obj\Debug\netcoreapp3.1\TLA_finalProjectQ2.dll
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\obj\Debug\netcoreapp3.1\TLA_finalProjectQ2.pdb
+C:\Users\morte\source\repos\TLA_finalProjectQ2\TLA_finalProjectQ2\obj\Debug\netcoreapp3.1\TLA_finalProjectQ2.genruntimeconfig.cache
